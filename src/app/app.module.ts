@@ -29,7 +29,8 @@ import {MatChipsModule} from '@angular/material/chips';
     InputTextModule,
     PasswordModule,
     FormsModule,
-    MatChipsModule
+    MatChipsModule,
+    ButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
